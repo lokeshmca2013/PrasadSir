@@ -1,0 +1,226 @@
+C:\Users\Sai\source\repos\SOC\SOC\obj\Debug\SOC.csproj.CoreCompileInputs.cache
+C:\Users\Sai\source\repos\SOC\SOC\bin\SOC.dll.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\SOC.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\SOC.pdb
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\csc.exe
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\csc.exe.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\csc.rsp
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\csi.exe
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\csi.exe.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\csi.rsp
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.AppContext.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Console.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\vbc.exe
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\vbc.exe.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\vbc.rsp
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sai\source\repos\SOC\SOC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\BussinessLogic.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\Entities.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\DataAcessLayer.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\BussinessLogic.pdb
+C:\Users\Sai\source\repos\SOC\SOC\bin\BussinessLogic.dll.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\Entities.pdb
+C:\Users\Sai\source\repos\SOC\SOC\bin\Entities.dll.config
+C:\Users\Sai\source\repos\SOC\SOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sai\source\repos\SOC\SOC\bin\DataAcessLayer.pdb
+C:\Users\Sai\source\repos\SOC\SOC\bin\DataAcessLayer.dll.config
+C:\Users\Sai\source\repos\SOC\SOC\obj\Debug\SOC.csproj.CopyComplete
+C:\Users\Sai\source\repos\SOC\SOC\obj\Debug\SOC.dll
+C:\Users\Sai\source\repos\SOC\SOC\obj\Debug\SOC.pdb
+C:\Users\Sai\source\repos\SOC\SOC\obj\Debug\SOC.csprojAssemblyReference.cache
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.Shared.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.Web.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sai\source\repos\SOC\SOC\bin\stdole.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\SOC.dll.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\SOC.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\SOC.pdb
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\csc.exe
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\csc.exe.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\csc.rsp
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\csi.exe
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\csi.exe.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\csi.rsp
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.AppContext.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Console.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\vbc.exe
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\vbc.exe.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\vbc.rsp
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sai\Desktop\SOC\SOC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\BussinessLogic.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\Entities.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\DataAcessLayer.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\stdole.dll
+C:\Users\Sai\Desktop\SOC\SOC\bin\BussinessLogic.pdb
+C:\Users\Sai\Desktop\SOC\SOC\bin\BussinessLogic.dll.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\Entities.pdb
+C:\Users\Sai\Desktop\SOC\SOC\bin\Entities.dll.config
+C:\Users\Sai\Desktop\SOC\SOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sai\Desktop\SOC\SOC\bin\DataAcessLayer.pdb
+C:\Users\Sai\Desktop\SOC\SOC\bin\DataAcessLayer.dll.config
+C:\Users\Sai\Desktop\SOC\SOC\obj\Debug\SOC.csprojAssemblyReference.cache
+C:\Users\Sai\Desktop\SOC\SOC\obj\Debug\SOC.csproj.CoreCompileInputs.cache
+C:\Users\Sai\Desktop\SOC\SOC\obj\Debug\SOC.csproj.CopyComplete
+C:\Users\Sai\Desktop\SOC\SOC\obj\Debug\SOC.dll
+C:\Users\Sai\Desktop\SOC\SOC\obj\Debug\SOC.pdb
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\SOC.dll.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\SOC.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\SOC.pdb
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\csc.exe
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\csc.exe.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\csc.rsp
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\csi.exe
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\csi.exe.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\csi.rsp
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.AppContext.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Console.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\vbc.exe
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\vbc.exe.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\vbc.rsp
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\AjaxControlToolkit.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\BussinessLogic.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\Entities.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\DataAcessLayer.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\BussinessLogic.pdb
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\BussinessLogic.dll.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\Entities.pdb
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\Entities.dll.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\DataAcessLayer.pdb
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\bin\DataAcessLayer.dll.config
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\obj\Debug\SOC.csproj.CoreCompileInputs.cache
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\obj\Debug\SOC.csproj.CopyComplete
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\obj\Debug\SOC.dll
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\obj\Debug\SOC.pdb
+C:\Users\Sai\Desktop\Desktop files\SOC\SOC\obj\Debug\SOC.csprojAssemblyReference.cache
